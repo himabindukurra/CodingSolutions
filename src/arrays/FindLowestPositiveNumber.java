@@ -32,6 +32,7 @@ public class FindLowestPositiveNumber {
            
         }
 		
+		s.close();
 		System.out.print("Input array is ");
 		System.out.println(Arrays.toString(in));
 		

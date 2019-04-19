@@ -51,6 +51,8 @@ public class MultiplyPatternArray {
 		System.out.print("Output array is ");
 		System.out.println(Arrays.toString(out));
 		
+		s.close();
+		
 	}
 
 	private static int[] productIntWithoutIndexInt(int[] in) {
